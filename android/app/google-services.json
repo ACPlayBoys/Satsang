@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283990620412",
+    "project_id": "internship-37f95",
+    "storage_bucket": "internship-37f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283990620412:android:71d44918c1d6791ef1ff79",
+        "android_client_info": {
+          "package_name": "com.example.restappintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283990620412-ksihfucjkfj451o2737m1o7masinsr9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restappintern",
+            "certificate_hash": "666ea2e00c616ca196541b4381d4316a7a5aa896"
+          }
+        },
+        {
+          "client_id": "283990620412-e9ph5l64k62ggh97ects86g538rn0eql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbNV_OzEFIe_SN6Ezf1iDU-Q03r4N3qts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283990620412-e9ph5l64k62ggh97ects86g538rn0eql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
