@@ -32,9 +32,9 @@ class _HomeScreenState extends State<HomeScreen> {
   late List<VideoItem> list = [];
 
   getChannel() async {
-    var b = await Backend.getChannelData("UCWaQvmCkNSVdPXsoOJrWxEg");
+    var b = await Backend.getChannelData("UC3gnhko-qhwOdUDh_DcZaAw");
     channel.add(b);
-    var c = await Backend.getChannelData("UCC43r0sMQyQAwQOw5KGRtWA");
+    var c = await Backend.getChannelData("UC_nseD9NYQYCiDMy-AfkZfA");
     channel.add(c);
     getVideo();
   }
